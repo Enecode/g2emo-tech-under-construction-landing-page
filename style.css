@@ -69,7 +69,7 @@ textarea{
     box-sizing: border-box;
     border: 1px solid #fcb900;
     border-radius: 4px;
-    background-color: #f2f2f2;
+    /* background-color: #f2f2f2; */
     resize: none;
 }
 
@@ -124,29 +124,29 @@ button:hover{
 
 /* add responsiveness */
 @media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
+  .container {
+    width: 50%;
     display: block;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .column {
+  .footer-container {
     width: 100%;
     display: block;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .column {
-    width: 100%;
+  .footer-container {
+    width: 50%;
     display: block;
   }
 }
 
 @media screen and (max-width: 400px) {
-  .column {
-    width: 100%;
+  .footer-container {
+    width: 50%;
     display: block;
   }
 }
