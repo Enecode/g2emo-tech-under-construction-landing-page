@@ -1,6 +1,6 @@
 #G2EMO Tech Under Construction Page
 
-This is the repository for the G2EMO Tech Under Construction Page. This page is used to inform users that the G2EMO Tech website is currently under construction.
+This is the repository for the G2EMO Tech Under Construction Page take home assignment. This page is used to inform users that the G2EMO Tech website is currently under construction.
 
 ## How to use
 
