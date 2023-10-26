@@ -122,10 +122,10 @@ button:hover{
     margin: 10px;
 }
 
-/* add responsiveness */
+
 @media screen and (max-width: 600px) {
   .container {
-    width: 50%;
+    width: 100%;
     display: block;
   }
 }
@@ -139,14 +139,14 @@ button:hover{
 
 @media screen and (max-width: 320px) {
   .footer-container {
-    width: 50%;
+    width: 100%;
     display: block;
   }
 }
 
 @media screen and (max-width: 400px) {
   .footer-container {
-    width: 50%;
+    width: 100%;
     display: block;
   }
 }
